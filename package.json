@@ -1,5 +1,5 @@
 {
-  "name": "ngx-mask",
+  "name": "hw-ngx-mask",
   "version": "8.2.0",
   "description": "awesome ngx mask",
   "license": "MIT",
@@ -49,19 +49,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JsDaddy/ngx-mask.git"
+    "url": "https://github.com/MaximBelov/ngx-mask.git"
   },
   "dependencies": {
-    "@angular/animations": "8.2.9",
-    "@angular/cdk": "8.2.2",
-    "@angular/common": "8.2.9",
-    "@angular/compiler": "8.2.9",
-    "@angular/core": "8.2.9",
-    "@angular/forms": "8.2.9",
-    "@angular/platform-browser": "8.2.9",
-    "@angular/platform-browser-dynamic": "8.2.9",
-    "@angular/router": "8.2.9",
-    "bootstrap": "4.3.1",
+    "@angular/animations": "9.0.6",
+    "@angular/cdk": "9.1.3",
+    "@angular/common": "9.0.6",
+    "@angular/compiler": "9.0.6",
+    "@angular/core": "9.0.6",
+    "@angular/forms": "9.0.6",
+    "@angular/platform-browser": "9.0.6",
+    "@angular/platform-browser-dynamic": "9.0.6",
+    "@angular/router": "9.0.6",
+    "bootstrap": "4.4.1",
     "core-js": "3.2.1",
     "hammerjs": "2.0.8",
     "intl": "1.2.5",
@@ -70,12 +70,12 @@
     "zone.js": "0.10.2"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "0.803.21",
-    "@angular-devkit/build-ng-packagr": "~0.803.6",
-    "@angular/cli": "8.3.6",
-    "@angular/compiler-cli": "8.2.9",
+    "@angular-devkit/build-angular": "0.900.6",
+    "@angular-devkit/build-ng-packagr": "0.900.6",
+    "@angular/cli": "9.0.6",
+    "@angular/compiler-cli": "9.0.6",
     "@angular/language-service": "^8.2.9",
-    "@angular/material": "8.2.2",
+    "@angular/material": "9.1.3",
     "@commitlint/cli": "~8.2.0",
     "@commitlint/config-conventional": "~8.2.0",
     "@types/highlight.js": "9.12.3",
@@ -97,15 +97,15 @@
     "karma-jasmine-html-reporter": "1.4.2",
     "karma-mocha-reporter": "^2.2.5",
     "markdownlint-cli": "~0.18.0",
-    "ng-packagr": "5.5.1",
+    "ng-packagr": "9.0.3",
     "node-sass": "^4.12.0",
     "pre-commit": "1.2.2",
     "prettier": "1.18.2",
     "puppeteer": "^1.20.0",
     "ts-node": "8.4.1",
-    "tsickle": "0.37.0",
+    "tsickle": "0.38.1",
     "tslib": "^1.10.0",
     "tslint": "5.20.0",
-    "typescript": "3.5.3"
+    "typescript": "3.7.4"
   }
 }
